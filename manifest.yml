@@ -1,0 +1,3 @@
+applications:
+- name: voting-assistant-demo
+  memory: 128M
